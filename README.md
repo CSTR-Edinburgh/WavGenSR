@@ -7,6 +7,8 @@ F. Espic, C. Valentini-Botinhao, Z. Wu, and S. King, “Waveform generation base
 
 More information at http://felipeespic.com/demo_waveform_2016/
 
+@author: Felipe Espic
+
 ## I. License:
 See the LICENCE file for details.
 
