@@ -5,7 +5,7 @@ This software is based on the work presented at Interspeech 2016:
 
 [F. Espic, C. Valentini-Botinhao, Z. Wu, and S. King, “Waveform generation based on signal reshaping for statistical parametric speech synthesis,” in Proc. Interspeech, San Francisco, CA, USA, September, 2016.](http://www.isca-speech.org/archive/Interspeech_2016/pdfs/0487.PDF)
 
-More information at http://felipeespic.com/demo_waveform_2016/
+More information at http://felipeespic.com/wavgensr/
 
 @author: [Felipe Espic](http://felipeespic.com)
 
